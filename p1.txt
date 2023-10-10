@@ -2,3 +2,4 @@ HELLO
 soumya kavana seema anjali 
 tuesday 10/10/2023
 reset
+devops reset
